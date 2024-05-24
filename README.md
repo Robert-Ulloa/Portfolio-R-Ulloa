@@ -17,6 +17,9 @@ Navigation: Smooth scrolling navigation to different sections of the site.
 - Google Fonts (for typography)
 - Terminal
 
+## Deployment link
+
+https://robert-ulloa.github.io/Portfolio-R-Ulloa/ 
 
 ## GIF
 
